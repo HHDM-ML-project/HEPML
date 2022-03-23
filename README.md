@@ -6,7 +6,7 @@ General information
 
 * This code is meant to be used in association with the HEPAnalysis framework.
 
-* The training setup is made in the beginnig of the file **train.py**.
+* The training setup is made at the beginning of the file **train.py**.
 
 * The code reads the data stored inside the **<output_path>/datasets** folder created by the tool **grouper.py** of the HEPAnalysis framework.
 
